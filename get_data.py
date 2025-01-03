@@ -56,6 +56,24 @@ def navigate_main_page(d):
     print(f"Nombre d'équipes: {équipes}")
     print(f"Nombre d'épreuves: {épreuves}")
 
+def navigate_disciplines(d):
+    section = d.find_element(By.ID,"globalTracking").find_element(By.TAG_NAME,"section")
+    discipline_section = section.find_elements(By.CLASS_NAME, "sc-e1befe53-0")
+
+    urls_list = []
+    for discipline in discipline_section:
+        # print(discipline.get_attribute("innerHTML"))
+        list_anchors = discipline.find_elements(By.TAG_NAME, "a")
+        for anchor in list_anchors:
+            urls_list.append(anchor.get_attribute("href"))
+
+    liste_finale = []
+    for item in urls_list:
+        if "results" in item:
+            liste_finale.append(item)
+    liste_finale = list(dict.fromkeys(liste_finale))
+    return liste_finale
+
 # Départ du scrapping
 def open_web(url):
     driver = webdriver.Firefox()
@@ -73,4 +91,16 @@ def open_web(url):
 
 driver_results = open_web(f"{main_url}/fr/olympic-games/seo/disciplines/athens-1896")
 liste_urls = get_liste_discplines_and_results_urls(driver_results)
-print(liste_urls)
+# print(liste_urls)
+close_driver(driver_results)
+
+for url in liste_urls:
+    driver_disciplines = open_web(url)
+    all_results_urls = navigate_disciplines(driver_disciplines)
+    close_driver(driver_disciplines)
+    # print(all_results_urls)
+    """
+    À continuer ici
+    On prend chaque url de la liste avec une boucle for et on continuer à chercher en rouvrant un driver.
+    Toujours les fermer ensuite (ça commence à devenir n'importe quoi.)
+    """
