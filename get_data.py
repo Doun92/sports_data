@@ -80,86 +80,80 @@ def navigate_disciplines(d):
 
 def get_position(tag):
     # print(tag.get_attribute("innerHTML"))
-    try:
-        test_data = tag.get_attribute("data-cy")
-        if "medal-row" in  test_data:
-            print("Position")
-            # print(f"test_data={test_data}")
-            position_tag = tag.find_element(By.TAG_NAME, "div")
-            position = position_tag.get_attribute("title")
-            if position:
-                print(position)
-                return position
-            else:
-                return "Aucune position"
-    except:
-        pass
+    position_tag = tag.find_element(By.TAG_NAME, "div")
+    position = position_tag.get_attribute("title")
+    if position:
+        return position
+    else:
+        return "Aucune position"
 
 def get_country(tag):
-    try:
-        test_data = tag.get_attribute("data-cy")
-        if "flag-row" in test_data:
-            print("Pays")
-            country_tag = tag.find_element(By.TAG_NAME, "span")
-            country = country_tag.get_attribute("innerHTML")
-            print(country)
-            return country
-    except:
-        pass
+    country_tag = tag.find_element(By.TAG_NAME, "span")
+    country = country_tag.get_attribute("innerHTML")
+    return country
 
 def get_athlete(tag):
     try:
-        test_data = tag.get_attribute("data-cy")
-        if "athlete-row" in test_data:
-            print("Athlète")
-            biographie = tag.find_element(By.TAG_NAME, "a").get_attribute("href")
-            athlete = tag.find_element(By.TAG_NAME, "h3").get_attribute("innerHTML").title()
-            print(athlete)
-            return(athlete)
+        biographie = tag.find_element(By.TAG_NAME, "a").get_attribute("href")
     except:
         pass
+    athlete = tag.find_element(By.CSS_SELECTOR, "h3[data-cy='athlete-name']").get_attribute("innerHTML").title()
+    return(athlete)
+
 
 def get_result(tag):
     try:
         span_tag = tag.find_element(By.TAG_NAME, "span")
         if "result-row" in span_tag.get_attribute("data-cy"):
-            print("Résultat")
+            # print("Résultat")
             resultat = span_tag.find_element(By.CSS_SELECTOR, "span[data-cy='result-info-content']").get_attribute("innerHTML")
-            print(resultat)
             return resultat
     except:
         pass
 
-def get_results(d):
+def get_results(d, sport, discipline):
     all_data_rows = d.find_elements(By.CSS_SELECTOR, "div[data-cy='single-athlete-result-row']")
     # print(len(all_data_rows))
     for data in all_data_rows:
         # print(data.get_attribute("innerHTML"))
         list_divs = data.find_elements(By.TAG_NAME, "div")
-        list_results = []
+        dic_results = {}
+        dic_results["sport"] = sport
+        dic_results["discipline"] = discipline
         for div in list_divs:
-            # Médailles ou positions
-            position = get_position(div)
-            if position:
-                list_results.append(position)
-            # Pays
-            country = get_country(div)
-            if country:
-                list_results.append(country)
-            # Nom de l'athlète
-            athlete = get_athlete(div)
-            if athlete:
-                list_results.append(athlete)
+            data_cy_attribute = div.get_attribute("data-cy")
+            if data_cy_attribute:
+                # Médailles ou positions
+                if "medal-row" in data_cy_attribute:
+                    position = get_position(div)
+                    if position:
+                        dic_results["position"] = position
+
+                # Pays
+                if "flag-row" in data_cy_attribute:
+                    country = get_country(div)
+                    if country:
+                        dic_results["pays"] = country
+
+                # Nom de l'athlète
+                if  "athlete-row"in data_cy_attribute:
+                    athlete = get_athlete(div)
+                    if athlete:
+                        dic_results["athlète"] = athlete
+                        
             # Résultats
             resultat = get_result(div)
             if resultat:
-                list_results.append(resultat)
+                dic_results["résultat"] = resultat
 
-        print(list_results)
-            # print(f"Athlète = {athlete}")
-            # print(f"Position = {position}")
-            # print(f"Pays = {country}")
-            # print(f"Résultat = {resultat}")
+        if "résultat" not in dic_results:
+            dic_results["résultat"] = "Aucune donnée"
+
+
+        print(dic_results)
+
+        add_to_csv(list(dic_results.values()),"résultats")
+
 # Départ du scrapping
 def open_web(url):
     driver = webdriver.Firefox()
@@ -169,41 +163,39 @@ def open_web(url):
 
     return driver    
 
-def add_to_csv(liste, type):
+def add_to_csv(data, type):
     this_folder = os.getcwd()
     if type == "résumé_jeux":
-        """
-        TODO
-        Ajouter une vérification si la lgine existe déjà ou pas.
-        """
         with open(f"{this_folder}\\data\\jeux_olympiques_résumé.csv", "a", encoding="utf-8", newline='') as data_file:
             wr = csv.writer(data_file)
-            wr.writerow(liste)
+            wr.writerow(data)
+    elif type == "résultats":
+        with open(f"{this_folder}\\data\\résultats.csv", "a", encoding="utf-8", newline='') as data_file:
+            wr = csv.writer(data_file)
+            wr.writerow(data)
 
-
-driver = open_web(f"{main_url}/fr/olympic-games/athens-1896")
-résumé_jeux = navigate_main_page(driver)
-add_to_csv(résumé_jeux, "résumé_jeux")
-close_driver(driver)
+# driver = open_web(f"{main_url}/fr/olympic-games/athens-1896")
+# résumé_jeux = navigate_main_page(driver)
+# add_to_csv(résumé_jeux, "résumé_jeux")
+# close_driver(driver)
 
 
 wait(5)
 
 driver_results = open_web(f"{main_url}/fr/olympic-games/seo/disciplines/athens-1896")
 liste_urls = get_liste_discplines_and_results_urls(driver_results)
-# print(liste_urls)
 close_driver(driver_results)
 
-for url in liste_urls:
+for i, url in enumerate(liste_urls):
+    # list_for_resuts_csv = []
     driver_disciplines = open_web(url)
     all_results_urls = navigate_disciplines(driver_disciplines)
     close_driver(driver_disciplines)
-    # print(all_results_urls)
-    for results_url in all_results_urls:
-        driver_disciplines = open_web(results_url)
-        get_results(driver_disciplines)
-        close_driver(driver_disciplines)
-
-"""
-Créer le csv
-"""
+    for j, results_url in enumerate(all_results_urls):
+            # list_for_resuts_csv.append(url.split("/")[-1])
+            sport = url.split("/")[-1]
+            discipline = results_url.split("/")[-1]
+            # list_for_resuts_csv.append(results_url.split("/")[-1])
+            driver_disciplines = open_web(results_url)
+            get_results(driver_disciplines, sport, discipline)
+            close_driver(driver_disciplines)
