@@ -187,15 +187,12 @@ liste_urls = get_liste_discplines_and_results_urls(driver_results)
 close_driver(driver_results)
 
 for i, url in enumerate(liste_urls):
-    # list_for_resuts_csv = []
     driver_disciplines = open_web(url)
     all_results_urls = navigate_disciplines(driver_disciplines)
     close_driver(driver_disciplines)
     for j, results_url in enumerate(all_results_urls):
-            # list_for_resuts_csv.append(url.split("/")[-1])
             sport = url.split("/")[-1]
             discipline = results_url.split("/")[-1]
-            # list_for_resuts_csv.append(results_url.split("/")[-1])
             driver_disciplines = open_web(results_url)
             get_results(driver_disciplines, sport, discipline)
             close_driver(driver_disciplines)
