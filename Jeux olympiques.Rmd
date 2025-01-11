@@ -1,0 +1,20 @@
+---
+title: "Jeux olympiques"
+author: "Daniel Escoval"
+date: "2025-01-11"
+output: html_document
+---
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+```
+
+# Introduction
+Le but de ce papier est d'analyser les données mises à disposition par le CIO sur les premiers jeux olympiques, ceux d'Athènes 1896.
+Pour ce faire, nous avons scrappé les données directement du site et avons créé deux feuilles de données.
+
+```{r}
+
+```
