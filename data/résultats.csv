@@ -1,118 +1,132 @@
-sport,discipline,position,pays,athlète,résultat
-athletisme,100m-hommes,Or,USA,Thomas Burke,12.000
-athletisme,100m-hommes,Argent,GER,Fritz Hofmann,at 2 metres
-athletisme,100m-hommes,Bronze,HUN,Alajos Szokolyi,at 4 metres
-athletisme,100m-hommes,Bronze,USA,Francis Lane,at 4 metres
-athletisme,100m-hommes,5,GRE,Alexandros Khalkokondylis,at 4 metres
-athletisme,100m-hommes,Aucune position,GER,Kurt Doerry,Aucune donnée
-athletisme,100m-hommes,Aucune position,GRE,Georgios Gennimatas,Aucune donnée
-athletisme,100m-hommes,Aucune position,SWE,Henrik Sjöberg,Aucune donnée
-athletisme,100m-hommes,Aucune position,CHI,Luis Subercaseaux,N'a pas débuté
-athletisme,100m-hommes,Aucune position,HUN,Leonidasz Manno,N'a pas débuté
-athletisme,100m-hommes,Aucune position,FRA,Jean Tournois,N'a pas débuté
-athletisme,100m-hommes,Aucune position,GRE,Konstantinos Mouratis,N'a pas débuté
-athletisme,100m-hommes,Aucune position,HUN,István Zachar,N'a pas débuté
-athletisme,100m-hommes,Aucune position,USA,Ralph Derr,N'a pas débuté
-athletisme,100m-hommes,Aucune position,FRA,Louis Adler,N'a pas débuté
-athletisme,100m-hommes,Aucune position,GER,Alfred Flatow,N'a pas débuté
-athletisme,100m-hommes,Aucune position,SWE,Harald Arbin,N'a pas débuté
-athletisme,100m-hommes,Aucune position,FRA,Alexandre Tufferi,N'a pas débuté
-athletisme,100m-hommes,Aucune position,HUN,Nandor Dani,N'a pas débuté
-athletisme,100m-hommes,Aucune position,USA,Charles Vanoni,N'a pas débuté
-athletisme,110m-haies-hommes,Or,USA,Tom Curtis,17.600
-athletisme,110m-haies-hommes,Argent,GBR,Grantley Goulding,at 0.05 metres
-athletisme,110m-haies-hommes,Aucune position,GRE,Anastasios Andreou,Aucune donnée
-athletisme,110m-haies-hommes,Aucune position,HUN,Alajos Szokolyi,Aucune donnée
-athletisme,110m-haies-hommes,Aucune position,GER,Kurt Doerry,Aucune donnée
-athletisme,110m-haies-hommes,Aucune position,GRE,Athanasios Skaltsogiannis,Aucune donnée
-athletisme,110m-haies-hommes,Aucune position,HUN,Pál Péthy,N'a pas débuté
-athletisme,110m-haies-hommes,Aucune position,GRE,Konstantinos Mouratis,N'a pas débuté
-athletisme,110m-haies-hommes,Aucune position,USA,Fred Lord,N'a pas débuté
-athletisme,110m-haies-hommes,Aucune position,GER,Fritz Traun,N'a pas débuté
-athletisme,110m-haies-hommes,Aucune position,GER,Fritz Hofmann,N'a pas débuté
-athletisme,110m-haies-hommes,Aucune position,SWE,Harald Arbin,N'a pas débuté
-athletisme,110m-haies-hommes,Aucune position,SWE,Henrik Sjöberg,N'a pas débuté
-athletisme,110m-haies-hommes,Aucune position,USA,James Brendan Connolly,N'a pas débuté
-athletisme,110m-haies-hommes,Aucune position,USA,Charles Vanoni,N'a pas débuté
-athletisme,1500m-hommes,Or,AUS,Edwin Flack,00:04:33.200
-athletisme,1500m-hommes,Argent,USA,Arthur Blake,at 2-10 metres
-athletisme,1500m-hommes,Bronze,FRA,Albin Lermusiaux,at 6-15 metres
-athletisme,1500m-hommes,4,GER,Karl Galle,Aucune donnée
-athletisme,1500m-hommes,Aucune position,GRE,Angelos Fetsis,Aucune donnée
-athletisme,1500m-hommes,Aucune position,GRE,Dimitrios Golemis,Aucune donnée
-athletisme,1500m-hommes,Aucune position,GRE,Konstantinos Karakatsanis,Aucune donnée
-athletisme,1500m-hommes,Aucune position,GRE,Dimitri Tombrof,Aucune donnée
-athletisme,1500m-hommes,Aucune position,HUN,Gyula Malcsiner,N'a pas débuté
-athletisme,1500m-hommes,Aucune position,FRA,Georges De La Néziere,N'a pas débuté
-athletisme,1500m-hommes,Aucune position,GBR,George Marshall,N'a pas débuté
-athletisme,1500m-hommes,Aucune position,HUN,Nandor Dani,N'a pas débuté
-athletisme,400m-hommes,Or,USA,Thomas Burke,54.200
-athletisme,400m-hommes,Argent,USA,Herbert Jamison,55.200
-athletisme,400m-hommes,Bronze,GBR,Charles Gmelin,at 15-20 metres
-athletisme,400m-hommes,4,GER,Fritz Hofmann,Aucune donnée
-athletisme,400m-hommes,Aucune position,FRA,Alphonse Grisel,Aucune donnée
-athletisme,400m-hommes,Aucune position,GER,Kurt Doerry,Aucune donnée
-athletisme,400m-hommes,Aucune position,CHI,Luis Subercaseaux,N'a pas débuté
-athletisme,400m-hommes,Aucune position,GRE,Konstantinos Mouratis,N'a pas débuté
-athletisme,400m-hommes,Aucune position,HUN,Leonidasz Manno,N'a pas débuté
-athletisme,400m-hommes,Aucune position,GER,Fritz Traun,N'a pas débuté
-athletisme,400m-hommes,Aucune position,AUS,Edwin Flack,N'a pas débuté
-athletisme,400m-hommes,Aucune position,FRA,Georges De La Néziere,N'a pas débuté
-athletisme,400m-hommes,Aucune position,GBR,Launceston Elliot,N'a pas débuté
-athletisme,400m-hommes,Aucune position,GBR,Grantley Goulding,N'a pas débuté
-athletisme,400m-hommes,Aucune position,GBR,George Marshall,N'a pas débuté
-athletisme,400m-hommes,Aucune position,HUN,Nandor Dani,N'a pas débuté
-athletisme,800m-hommes,Or,AUS,Edwin Flack,00:02:11.000
-athletisme,800m-hommes,Argent,HUN,Nandor Dani,00:02:11.800
-athletisme,800m-hommes,Bronze,GRE,Dimitrios Golemis,at 20-100 metres
-athletisme,800m-hommes,Aucune position,GRE,Dimitri Tombrof,Aucune donnée
-athletisme,800m-hommes,Aucune position,GRE,Angelos Fetsis,Aucune donnée
-athletisme,800m-hommes,Aucune position,CHI,Luis Subercaseaux,N'a pas débuté
-athletisme,800m-hommes,Aucune position,HUN,István Zaborszky,N'a pas débuté
-athletisme,800m-hommes,Aucune position,GER,Fritz Hofmann,N'a pas débuté
-athletisme,800m-hommes,Aucune position,FRA,Frantz Reichel,N'a pas débuté
-athletisme,800m-hommes,Aucune position,GER,Kurt Doerry,N'a pas débuté
-athletisme,800m-hommes,Aucune position,USA,Thomas Burke,N'a pas débuté
-athletisme,disque-hommes,Or,USA,Bob Garrett,Aucune donnée
-athletisme,disque-hommes,Argent,GRE,Panagiotis Paraskevopoulos,Aucune donnée
-athletisme,disque-hommes,Bronze,GRE,Sotirios Versis,Aucune donnée
-athletisme,disque-hommes,4,GBR,George Stuart Robertson,Aucune donnée
-athletisme,disque-hommes,Aucune position,SWE,Henrik Sjöberg,Aucune donnée
-athletisme,disque-hommes,Aucune position,GRE,Georgios Papasideris,Aucune donnée
-athletisme,disque-hommes,Aucune position,DEN,Holger Nielsen,Aucune donnée
-athletisme,disque-hommes,Aucune position,DEN,Viggo Jensen,Aucune donnée
-athletisme,disque-hommes,Aucune position,FRA,Alphonse Grisel,Aucune donnée
-athletisme,disque-hommes,Aucune position,FRA,Louis Adler,N'a pas débuté
-athletisme,disque-hommes,Aucune position,DEN,Charles Winckler,N'a pas débuté
-athletisme,disque-hommes,Aucune position,GER,Carl Schuhmann,N'a pas débuté
-athletisme,disque-hommes,Aucune position,USA,Charles Vanoni,N'a pas débuté
-athletisme,marathon-hommes,Or,GRE,Spyridon Louis,02:58:50.000
-athletisme,marathon-hommes,Argent,GRE,Kharilaos Vasilakos,03:06:03.000
-athletisme,marathon-hommes,Bronze,HUN,Gyula Kellner,03:06:35.000
-athletisme,marathon-hommes,4,GRE,Ioannis Vrettos,Aucune donnée
-athletisme,marathon-hommes,5,GRE,Eleftherios Papasymeon,Aucune donnée
-athletisme,marathon-hommes,6,GRE,Dimitrios Deligiannis,Aucune donnée
-athletisme,marathon-hommes,7,GRE,Evangelos Gerakakis,Aucune donnée
-athletisme,marathon-hommes,8,GRE,Stamatios Masouris,Aucune donnée
-athletisme,marathon-hommes,9,GRE,Sokratis Lagoudakis,Aucune donnée
-athletisme,marathon-hommes,Aucune position,AUS,Edwin Flack,N'a pas terminé
-athletisme,marathon-hommes,Aucune position,FRA,Albin Lermusiaux,N'a pas terminé
-athletisme,marathon-hommes,Aucune position,GRE,Georgios Lavrentis,N'a pas terminé
-athletisme,marathon-hommes,Aucune position,GRE,Georgios Grigoriou,N'a pas terminé
-athletisme,marathon-hommes,Aucune position,USA,Arthur Blake,N'a pas terminé
-athletisme,marathon-hommes,Aucune position,GRE,Ilias Kafetzis,N'a pas terminé
-athletisme,marathon-hommes,Aucune position,GRE,Dimitrios Khristopoulos,N'a pas terminé
-athletisme,marathon-hommes,Aucune position,GRE,Spyridon Belokas,Disqualifié
-athletisme,marathon-hommes,Aucune position,GRE,Vathis Vathis,N'a pas débuté
-athletisme,marathon-hommes,Aucune position,GRE,Vanitakis Vanitakis,N'a pas débuté
-athletisme,marathon-hommes,Aucune position,HUN,Gyula Malcsiner,N'a pas débuté
-athletisme,marathon-hommes,Aucune position,ITA,Carlo Airoldi,N'a pas débuté
-athletisme,marathon-hommes,Aucune position,GER,Karl Galle,N'a pas débuté
-athletisme,poids-hommes,Or,USA,Bob Garrett,Aucune donnée
-athletisme,poids-hommes,Argent,GRE,Miltiadis Gouskos,Aucune donnée
-athletisme,poids-hommes,Bronze,GRE,Georgios Papasideris,Aucune donnée
-athletisme,poids-hommes,4,DEN,Viggo Jensen,Aucune donnée
-athletisme,poids-hommes,Aucune position,GER,Carl Schuhmann,Aucune donnée
+sport,discipline,épreuve,position,pays,athlète,résultat,unité,notes,is_qualified
+athletisme,100m-hommes,finale,Or,USA,Thomas Burke,11.800,temps,record olympique,
+athletisme,100m-hommes,finale,Argent,GER,Fritz Hofmann,12.200,temps,,
+athletisme,100m-hommes,finale,Bronze,HUN,Alajos Szokolyi,12.600,temps,,
+athletisme,100m-hommes,finale,Bronze,USA,Francis Lane,12.600,temps,,
+athletisme,100m-hommes,finale,5,GRE,Alexandros Khalkokondylis,12.700,temps,,
+athletisme,100m-hommes,finale,Aucune position,USA,Thomas Curtis,N'a pas débuté,temps,,
+athletisme,100m-hommes,série 1,1,USA,Francis Lane,12.200,temps,record olympique,Q
+athletisme,100m-hommes,série 1,2,HON,Alajos Szokolyi,12.750,temps,,Q
+athletisme,100m-hommes,série 1,3,GBR,Charles Gmelin,12.900,temps,,
+athletisme,100m-hommes,série 1,4,FRA,Adolphe Grisel,Aucune donnée,temps,,
+athletisme,100m-hommes,série 1,5,GER,Kurt Doerry,Aucune donnée,temps,,
+athletisme,100m-hommes,série 1,Aucune position,HON,Leonidasz Manno,N'a pas débuté,temps,,
+athletisme,100m-hommes,série 1,Aucune position,CHI,Luis Subercaseaux,N'a pas débuté,temps,,
+athletisme,100m-hommes,série 2,1,USA,Thomas Curtis,12.200,temps,record olympique,Q
+athletisme,100m-hommes,série 2,2,GRE,Alexandros Khalkokondylis,12.750,temps,,Q
+athletisme,100m-hommes,série 2,3,GBR,Launceston Elliot,12.900,temps,,
+athletisme,100m-hommes,série 2,4,DEN,Eugen Schmidt,Aucune donnée,temps,,
+athletisme,100m-hommes,série 2,5,GBR,George Marshall,Aucune donnée,temps,,
+athletisme,100m-hommes,série 2,Aucune position,HON,Nandor Dani,N'a pas débuté,temps,,
+athletisme,100m-hommes,série 2,Aucune position,FRA,André Tournois,N'a pas débuté,temps,,
+athletisme,100m-hommes,série 2,Aucune position,FRA,Alexandre Truffère,N'a pas débuté,temps,,
+athletisme,100m-hommes,série 3,1,USA,Thomas Burke,11.800,temps,record olympique,Q
+athletisme,100m-hommes,série 3,2,GER,Fritz Hofmann,12.750,temps,,Q
+athletisme,100m-hommes,série 3,3,GER,Friedrich Traun,13.500,temps,,
+athletisme,100m-hommes,série 3,4,GRE,Georgios Gennimatas,Aucune donnée,temps,,
+athletisme,100m-hommes,série 3,4,SWE,Henrik Sjöberg,Aucune donnée,temps,,
+athletisme,100m-hommes,série 3,Aucune position,GER,Alfred Flatow,N'a pas débuté,temps,,
+athletisme,100m-hommes,série 3,Aucune position,GRE,Konstantinos Mouratis,N'a pas débuté,temps,,
+athletisme,110m-haies-hommes,finale,Or,USA,Tom Curtis,17.600,temps,record olympique,
+athletisme,110m-haies-hommes,finale,Argent,GBR,Grantley Goulding,17.700,temps,,
+athletisme,110m-haies-hommes,finale,Aucune position,USA,William Hoyt,N'a pas débuté,temps,,
+athletisme,110m-haies-hommes,finale,Aucune position,FRA,Frantz Reichel,N'a pas débuté,temps,,
+athletisme,110m-haies-hommes,série 1,1,GBR,Grantley Goulding,18.400,temps,record olympique,Q
+athletisme,110m-haies-hommes,série 1,2,FRA,Frantz Reichel,Aucune donnée,temps,,Q
+athletisme,110m-haies-hommes,série 1,3,HON,Alajos Szokolyi,Aucune donnée,temps,,
+athletisme,110m-haies-hommes,série 1,4,GRE,Anastasios Andreou,Aucune donnée,temps,,
+athletisme,110m-haies-hommes,série 2,1,USA,Thomas Curtis,18.00,temps,record olympique,Q
+athletisme,110m-haies-hommes,série 2,2,USA,William Hoyt,Aucune donnée,temps,,Q
+athletisme,110m-haies-hommes,série 2,3,GER,Kurt Doerry,Aucune donnée,temps,,
+athletisme,110m-haies-hommes,série 2,3,GRE,Athanasios Skaltsogiannis,Aucune donnée,temps,,
+athletisme,1500m-hommes,finale,Or,AUS,Edwin Flack,04:33.200,temps,record olympique,
+athletisme,1500m-hommes,finale,Argent,USA,Arthur Blake,04:33.600,temps,,
+athletisme,1500m-hommes,finale,Bronze,FRA,Albin Lermusiaux,04:36.000,temps,,
+athletisme,1500m-hommes,finale,4,GER,Karl Galle,04:39.000,temps,,
+athletisme,1500m-hommes,finale,Aucune position,GRE,Angelos Fetsis,Aucune donnée,temps,,
+athletisme,1500m-hommes,finale,Aucune position,GRE,Dimitrios Golemis,Aucune donnée,temps,,
+athletisme,1500m-hommes,finale,Aucune position,GRE,Konstantinos Karakatsanis,Aucune donnée,temps,,
+athletisme,1500m-hommes,finale,Aucune position,GRE,Dimitri Tombrof,Aucune donnée,temps,,
+athletisme,400m-hommes,finale,Or,USA,Thomas Burke,54.200,temps,record olympique,
+athletisme,400m-hommes,finale,Argent,USA,Herbert Jamison,55.200,temps,,
+athletisme,400m-hommes,finale,Bronze,GBR,Charles Gmelin,56.700,temps,,
+athletisme,400m-hommes,finale,4,GER,Fritz Hofmann,56.700,temps,,
+athletisme,400m-hommes,série 1,1,USA,Herbert Jamison,56.800,temps,record olympique,Q
+athletisme,400m-hommes,série 1,2,GER,Fritz Hofmann,58.600,temps,,Q
+athletisme,400m-hommes,série 1,3,GER,Kurt Doerry,Aucune donnée,temps,,
+athletisme,400m-hommes,série 1,4,FRA,Adolphe Grisel,Aucune donnée,temps,,
+athletisme,400m-hommes,série 1,Aucune position,AUS,Edwin Flack,N'a pas débuté,temps,,
+athletisme,400m-hommes,série 1,Aucune position,GBR,George Marshall,N'a pas débuté,temps,,
+athletisme,400m-hommes,série 1,Aucune position,GRE,Konstantinos Mouratis,N'a pas débuté,temps,,
+athletisme,400m-hommes,série 1,Aucune position,CHI,Luis Subercaseaux,N'a pas débuté,temps,,
+athletisme,400m-hommes,série 1,Aucune position,GER,Friedrich Traun,N'a pas débuté,temps,,
+athletisme,400m-hommes,série 2,1,USA,Thomas Burke,58.400,temps,,Q
+athletisme,400m-hommes,série 2,2,GBR,Charles Gmelin,01:00.500,temps,,Q
+athletisme,400m-hommes,série 2,3,FRA,Frantz Reichel,01:02.300,temps,,
+athletisme,400m-hommes,série 2,Aucune position,HON,Nandor Dani,N'a pas débuté,temps,,
+athletisme,400m-hommes,série 2,Aucune position,GBR,Launceston Elliot,N'a pas débuté,temps,,
+athletisme,400m-hommes,série 2,Aucune position,GBR,Grantley Goulding,N'a pas débuté,temps,,
+athletisme,400m-hommes,série 2,Aucune position,HON,Leonidasz Manno,N'a pas débuté,temps,,
+athletisme,400m-hommes,série 2,Aucune position,FRA,Georges de la Nézière,N'a pas débuté,temps,,
+athletisme,800m-hommes,finale,Or,AUS,Edwin Flack,02:11.000,temps,,
+athletisme,800m-hommes,finale,Argent,HUN,Nandor Dani,02:11.800,temps,,
+athletisme,800m-hommes,finale,Bronze,GRE,Dimitrios Golemis,02:28.000,temps,,
+athletisme,800m-hommes,finale,Aucune position,FRA,Albin Lermusiaux,N'a pas débuté,temps,,
+athletisme,800m-hommes,série 1,1,AUS,Edwin Flack,02:10.000,temps,record olympique,Q
+athletisme,800m-hommes,série 1,2,HUN,Nandor Dani,02:10.200,temps,,Q
+athletisme,800m-hommes,série 1,3,GER,Friedrich Traun,02:13.400,temps,,
+athletisme,800m-hommes,série 1,4,GBR,George Marshall,Aucune donnée,temps,,
+athletisme,800m-hommes,série 1,Aucune position,USA,Thomas Burke,N'a pas débuté,temps,,
+athletisme,800m-hommes,série 1,Aucune position,GER,Fritz Hofmann,N'a pas débuté,temps,,
+athletisme,800m-hommes,série 1,Aucune position,FRA,Frantz Reichel,N'a pas débuté,temps,,
+athletisme,800m-hommes,série 2,1,FRA,Albin Lermusiaux,02:16.600,temps,,Q
+athletisme,800m-hommes,série 2,2,GRE,Dimitrios Golemis,02:16.800,temps,,Q
+athletisme,800m-hommes,série 2,3,FRA,Georges de la Nézière,Aucune donnée,temps,,
+athletisme,800m-hommes,série 2,4,GRE,Angelos Fetsis,Aucune donnée,temps,,
+athletisme,800m-hommes,série 2,5,GRE,Dimitri Tombrof,Aucune donnée,temps,,
+athletisme,800m-hommes,série 2,Aucune position,GER,Kurt Doerry,Aucune donnée,temps,,
+athletisme,800m-hommes,série 2,Aucune position,CHI,Luis Subercaseaux,Aucune donnée,temps,,
+athletisme,disque-hommes,finale,Or,USA,Bob Garrett,29.150,distance,record olympique,
+athletisme,disque-hommes,finale,Argent,GRE,Panagiotis Paraskevopoulos,28.955,distance,,
+athletisme,disque-hommes,finale,Bronze,GRE,Sotirios Versis,27.780,distance,,
+athletisme,disque-hommes,finale,4,GBR,George Stuart Robertson,25.200,distance,,
+athletisme,disque-hommes,finale,Aucune position,SWE,Henrik Sjöberg,Aucune donnée,distance,,
+athletisme,disque-hommes,finale,Aucune position,GRE,Georgios Papasideris,Aucune donnée,distance,,
+athletisme,disque-hommes,finale,Aucune position,DEN,Holger Nielsen,Aucune donnée,distance,,
+athletisme,disque-hommes,finale,Aucune position,DEN,Viggo Jensen,Aucune donnée,distance,,
+athletisme,disque-hommes,finale,Aucune position,FRA,Adolphe Grisel,Aucune donnée,distance,,
+athletisme,disque-hommes,finale,Aucune position,FRA,Louis Adler,N'a pas débuté,distance,,
+athletisme,disque-hommes,finale,Aucune position,DEN,Charles Winckler,N'a pas débuté,distance,,
+athletisme,disque-hommes,finale,Aucune position,GER,Carl Schuhmann,N'a pas débuté,distance,,
+athletisme,disque-hommes,finale,Aucune position,USA,Charles Vanoni,N'a pas débuté,distance,,
+athletisme,marathon-hommes,finale,Or,GRE,Spyridon Louis,02:58:50.000,temps,record olympique,
+athletisme,marathon-hommes,finale,Argent,GRE,Kharilaos Vasilakos,03:06:03.000,temps,,
+athletisme,marathon-hommes,finale,Bronze,HUN,Gyula Kellner,03:06:35.000,temps,,
+athletisme,marathon-hommes,finale,4,GRE,Ioannis Vrettos,Aucune donnée,temps,,
+athletisme,marathon-hommes,finale,5,GRE,Eleftherios Papasymeon,Aucune donnée,temps,,
+athletisme,marathon-hommes,finale,6,GRE,Dimitrios Deligiannis,Aucune donnée,temps,,
+athletisme,marathon-hommes,finale,7,GRE,Evangelos Gerakakis,Aucune donnée,temps,,
+athletisme,marathon-hommes,finale,8,GRE,Stamatios Masouris,Aucune donnée,temps,,
+athletisme,marathon-hommes,finale,9,GRE,Sokratis Lagoudakis,Aucune donnée,temps,,
+athletisme,marathon-hommes,finale,Disqualifié,GRE,Spyridon Belokas,Disqualifié,temps,,
+athletisme,marathon-hommes,finale,Aucune position,USA,Arthur Blake,Abandon,temps,,
+athletisme,marathon-hommes,finale,Aucune position,GRE,Dimitrios Khristopoulos,Abandon,temps,,
+athletisme,marathon-hommes,finale,Aucune position,AUS,Edwin Flack,Abandon,temps,,
+athletisme,marathon-hommes,finale,Aucune position,GRE,Georgios Grigoriou,Abandon,temps,,
+athletisme,marathon-hommes,finale,Aucune position,GRE,Ilias Kafetzis,Abandon,temps,,
+athletisme,marathon-hommes,finale,Aucune position,GRE,Ioannis Lavrentis,Abandon,temps,,
+athletisme,marathon-hommes,finale,Aucune position,FRA,Albin Lermusiaux,Abandon,temps,,
+athletisme,marathon-hommes,finale,Aucune position,ITA,Carlo Airoldi,N'a pas débuté,temps,,
+athletisme,marathon-hommes,finale,Aucune position,GER,Karl Galle,N'a pas débuté,temps,,
+athletisme,marathon-hommes,finale,Aucune position,GRE,Vanitakis Vanitakis,N'a pas débuté,temps,,
+athletisme,marathon-hommes,finale,Aucune position,HUN,Gyula Malcsiner,N'a pas débuté,temps,,
+athletisme,marathon-hommes,finale,Aucune position,GRE,Vathis Vathis,N'a pas débuté,temps,,
+
+athletisme,poids-hommes,finale,Or,USA,Bob Garrett,11.22,distance,record olympique,
+athletisme,poids-hommes,finale,Argent,GRE,Miltiadis Gouskos,11.03,distance,,
+athletisme,poids-hommes,finale,Bronze,GRE,Georgios Papasideris,10.36,distance,,
+athletisme,poids-hommes,finale,4,DEN,Viggo Jensen,10.20,distance,,
+athletisme,poids-hommes,Aucune position,GER,Carl Schuhmann,10.00
 athletisme,poids-hommes,Aucune position,GER,Fritz Hofmann,Aucune donnée
 athletisme,poids-hommes,Aucune position,USA,Ellery Clark,Aucune donnée
 athletisme,poids-hommes,Aucune position,GER,Conrad Böcker,N'a pas débuté
@@ -122,11 +136,12 @@ athletisme,poids-hommes,Aucune position,HUN,Momcsillo Tapavicza,N'a pas débuté
 athletisme,poids-hommes,Aucune position,GER,Alfred Flatow,N'a pas débuté
 athletisme,poids-hommes,Aucune position,GER,Hermann Weingärtner,N'a pas débuté
 athletisme,poids-hommes,Aucune position,DEN,Holger Nielsen,N'a pas débuté
-athletisme,poids-hommes,Aucune position,FRA,Alphonse Grisel,N'a pas débuté
+athletisme,poids-hommes,Aucune position,FRA,Adolphe Grisel,N'a pas débuté
 athletisme,poids-hommes,Aucune position,DEN,Charles Winckler,N'a pas débuté
 athletisme,poids-hommes,Aucune position,GBR,George Stuart Robertson,N'a pas débuté
 athletisme,poids-hommes,Aucune position,HUN,Dezső Wein,N'a pas débuté
 athletisme,poids-hommes,Aucune position,USA,Charles Vanoni,N'a pas débuté
+
 athletisme,saut-en-hauteur-hommes,Or,USA,Ellery Clark,1.81
 athletisme,saut-en-hauteur-hommes,Argent,USA,Bob Garrett,1.65
 athletisme,saut-en-hauteur-hommes,Argent,USA,James Brendan Connolly,1.65
@@ -135,7 +150,7 @@ athletisme,saut-en-hauteur-hommes,5,GER,Fritz Hofmann,1.55
 athletisme,saut-en-hauteur-hommes,Aucune position,GER,Conrad Böcker,N'a pas débuté
 athletisme,saut-en-hauteur-hommes,Aucune position,USA,J. Stanley Edwards,N'a pas débuté
 athletisme,saut-en-hauteur-hommes,Aucune position,FRA,Louis Adler,N'a pas débuté
-athletisme,saut-en-hauteur-hommes,Aucune position,GER,Fritz Traun,N'a pas débuté
+athletisme,saut-en-hauteur-hommes,Aucune position,GER,Friedrich Traun,N'a pas débuté
 athletisme,saut-en-hauteur-hommes,Aucune position,GER,Alfred Flatow,N'a pas débuté
 athletisme,saut-en-hauteur-hommes,Aucune position,GER,Fritz Manteuffel,N'a pas débuté
 athletisme,saut-en-hauteur-hommes,Aucune position,GER,Gustav Schuft,N'a pas débuté
@@ -155,11 +170,11 @@ athletisme,saut-en-longueur-hommes,Aucune position,FRA,Alexandre Tufferi,Aucune 
 athletisme,saut-en-longueur-hommes,Aucune position,GRE,Athanasios Skaltsogiannis,Aucune donnée
 athletisme,saut-en-longueur-hommes,Aucune position,SWE,Henrik Sjöberg,Aucune donnée
 athletisme,saut-en-longueur-hommes,Aucune position,GER,Carl Schuhmann,Aucune donnée
-athletisme,saut-en-longueur-hommes,Aucune position,FRA,Alphonse Grisel,Aucune donnée
+athletisme,saut-en-longueur-hommes,Aucune position,FRA,Adolphe Grisel,Aucune donnée
 athletisme,saut-en-longueur-hommes,Aucune position,USA,Ralph Derr,N'a pas débuté
 athletisme,saut-en-longueur-hommes,Aucune position,GRE,Konstantinos Mouratis,N'a pas débuté
 athletisme,saut-en-longueur-hommes,Aucune position,HUN,Pál Péthy,N'a pas débuté
-athletisme,saut-en-longueur-hommes,Aucune position,GER,Fritz Traun,N'a pas débuté
+athletisme,saut-en-longueur-hommes,Aucune position,GER,Friedrich Traun,N'a pas débuté
 athletisme,saut-en-longueur-hommes,Aucune position,HUN,Momcsillo Tapavicza,N'a pas débuté
 athletisme,saut-en-longueur-hommes,Aucune position,GER,Alfred Flatow,N'a pas débuté
 athletisme,saut-en-longueur-hommes,Aucune position,GER,Fritz Hofmann,N'a pas débuté
@@ -175,7 +190,7 @@ athletisme,saut-a-la-perche-hommes,Argent,USA,Albert Tyler,3.20
 athletisme,saut-a-la-perche-hommes,Bronze,GRE,Evangelos Damaskos,2.60
 athletisme,saut-a-la-perche-hommes,Bronze,GRE,Ioannis Theodoropoulos,2.60
 athletisme,saut-a-la-perche-hommes,5,GRE,Vasilios Xydas,2.40
-athletisme,saut-a-la-perche-hommes,Aucune position,GER,Fritz Traun,N'a pas débuté
+athletisme,saut-a-la-perche-hommes,Aucune position,GER,Friedrich Traun,N'a pas débuté
 athletisme,saut-a-la-perche-hommes,Aucune position,HUN,Momcsillo Tapavicza,N'a pas débuté
 athletisme,saut-a-la-perche-hommes,Aucune position,GER,Alfred Flatow,N'a pas débuté
 athletisme,saut-a-la-perche-hommes,Aucune position,GER,Fritz Hofmann,N'a pas débuté
@@ -199,9 +214,9 @@ athletisme,triple-saut-hommes,5,GER,Carl Schuhmann,Aucune donnée
 athletisme,triple-saut-hommes,Aucune position,GRE,Khristos Zoumis,Aucune donnée
 athletisme,triple-saut-hommes,Aucune position,GER,Fritz Hofmann,Aucune donnée
 athletisme,triple-saut-hommes,Aucune position,HUN,Pál Péthy,N'a pas débuté
-athletisme,triple-saut-hommes,Aucune position,GER,Fritz Traun,N'a pas débuté
+athletisme,triple-saut-hommes,Aucune position,GER,Friedrich Traun,N'a pas débuté
 athletisme,triple-saut-hommes,Aucune position,GER,Alfred Flatow,N'a pas débuté
-athletisme,triple-saut-hommes,Aucune position,FRA,Alphonse Grisel,N'a pas débuté
+athletisme,triple-saut-hommes,Aucune position,FRA,Adolphe Grisel,N'a pas débuté
 cyclisme-sur-piste,100km-hommes,Or,FRA,Léon Flameng,3-08:19 1/5
 cyclisme-sur-piste,100km-hommes,Argent,GRE,Georgios Koletis,Aucune donnée
 cyclisme-sur-piste,100km-hommes,Aucune position,GER,Bernard Knubel,N'a pas terminé
@@ -307,7 +322,7 @@ natation,100m-nage-libre-hommes,Aucune position,GRE,Efstathios Khorafas,Aucune d
 natation,100m-nage-libre-hommes,Aucune position,GRE,Georgios Anninos,Aucune donnée
 natation,100m-nage-libre-hommes,Aucune position,DEN,Holger Nielsen,N'a pas débuté
 natation,100m-nage-libre-hommes,Aucune position,DEN,Charles Winckler,N'a pas débuté
-natation,100m-nage-libre-hommes,Aucune position,FRA,Alphonse Grisel,N'a pas débuté
+natation,100m-nage-libre-hommes,Aucune position,FRA,Adolphe Grisel,N'a pas débuté
 natation,100m-nage-libre-hommes,Aucune position,FRA,Frantz Reichel,N'a pas débuté
 natation,100m-nage-libre-hommes,Aucune position,GBR,H. F. Suter,N'a pas débuté
 natation,100m-nage-libre-hommes,Aucune position,GRE,D. Frangopoulos,N'a pas débuté
@@ -342,7 +357,7 @@ natation,1200m-nage-libre-hommes,Aucune position,GRE,Efstathios Khorafas,Aucune 
 natation,1200m-nage-libre-hommes,Aucune position,AUT,Paul Neumann,N'a pas terminé
 natation,1200m-nage-libre-hommes,Aucune position,DEN,Holger Nielsen,N'a pas débuté
 natation,1200m-nage-libre-hommes,Aucune position,DEN,Charles Winckler,N'a pas débuté
-natation,1200m-nage-libre-hommes,Aucune position,FRA,Alphonse Grisel,N'a pas débuté
+natation,1200m-nage-libre-hommes,Aucune position,FRA,Adolphe Grisel,N'a pas débuté
 natation,1200m-nage-libre-hommes,Aucune position,GRE,D. Frangopoulos,N'a pas débuté
 natation,1200m-nage-libre-hommes,Aucune position,GRE,Antonios Pepanos,N'a pas débuté
 natation,1200m-nage-libre-hommes,Aucune position,GRE,G. Athanasiou,N'a pas débuté
@@ -363,7 +378,7 @@ natation,400m-nage-libre-hommes,Bronze,GRE,Efstathios Khorafas,Aucune donnée
 natation,400m-nage-libre-hommes,Aucune position,AUT,Otto Herschmann,N'a pas débuté
 natation,400m-nage-libre-hommes,Aucune position,DEN,Holger Nielsen,N'a pas débuté
 natation,400m-nage-libre-hommes,Aucune position,DEN,Charles Winckler,N'a pas débuté
-natation,400m-nage-libre-hommes,Aucune position,FRA,Alphonse Grisel,N'a pas débuté
+natation,400m-nage-libre-hommes,Aucune position,FRA,Adolphe Grisel,N'a pas débuté
 natation,400m-nage-libre-hommes,Aucune position,FRA,Frantz Reichel,N'a pas débuté
 natation,400m-nage-libre-hommes,Aucune position,GBR,H. F. Suter,N'a pas débuté
 natation,400m-nage-libre-hommes,Aucune position,GRE,D. Frangopoulos,N'a pas débuté
@@ -403,7 +418,7 @@ tennis,simple-hommes,=5,GRE,Evangelos Rallis,Aucune donnée
 tennis,simple-hommes,=5,GRE,Kostas Akratopoulos,Aucune donnée
 tennis,simple-hommes,=8,GRE,D. Frangopoulos,Aucune donnée
 tennis,simple-hommes,=8,FRA,J. Defert,Aucune donnée
-tennis,simple-hommes,=8,GER,Fritz Traun,Aucune donnée
+tennis,simple-hommes,=8,GER,Friedrich Traun,Aucune donnée
 tennis,simple-hommes,=8,GRE,Dimitrios Petrokokkinos,Aucune donnée
 tennis,simple-hommes,=8,GBR,George Stuart Robertson,Aucune donnée
 tennis,simple-hommes,=8,AUS,Edwin Flack,Aucune donnée
@@ -521,7 +536,7 @@ gymnastique-artistique,barres-paralleles-par-equipes-hommes,Bronze,GRE,Ioannis M
 gymnastique-artistique,barres-paralleles-par-equipes-hommes,Bronze,GRE,Filippos Karvelás,Aucune donnée
 gymnastique-artistique,barres-paralleles-hommes,Or,GER,Alfred Flatow,Aucune donnée
 gymnastique-artistique,barres-paralleles-hommes,Argent,SUI,Louis Zutter,Aucune donnée
-gymnastique-artistique,barres-paralleles-hommes,Aucune position,FRA,Alphonse Grisel,Aucune donnée
+gymnastique-artistique,barres-paralleles-hommes,Aucune position,FRA,Adolphe Grisel,Aucune donnée
 gymnastique-artistique,barres-paralleles-hommes,Aucune position,GER,Carl Schuhmann,Aucune donnée
 gymnastique-artistique,barres-paralleles-hommes,Aucune position,GER,Conrad Böcker,Aucune donnée
 gymnastique-artistique,barres-paralleles-hommes,Aucune position,GER,Gustav Felix Flatow,Aucune donnée
@@ -552,3 +567,23 @@ gymnastique-artistique,cheval-d-arcons-hommes,Aucune position,GER,Gustav Schuft,
 gymnastique-artistique,cheval-d-arcons-hommes,Aucune position,HUN,Gyula Kakas,Aucune donnée
 gymnastique-artistique,cheval-d-arcons-hommes,Aucune position,BUL,Charles Champoff,Aucune donnée
 gymnastique-artistique,cheval-d-arcons-hommes,Aucune position,HUN,Dezső Wein,Aucune donnée
+gymnastique-artistique,corde-lisse-hommes,Or,GRE,Nikolaos Andriakopoulos,23.400
+gymnastique-artistique,corde-lisse-hommes,Argent,GRE,Thomas Xenakis,Aucune donnée
+gymnastique-artistique,corde-lisse-hommes,Bronze,GER,Fritz Hofmann,Aucune donnée
+gymnastique-artistique,corde-lisse-hommes,4,DEN,Viggo Jensen,Aucune donnée
+gymnastique-artistique,corde-lisse-hommes,5,GBR,Launceston Elliot,Aucune donnée
+gymnastique-artistique,saut-de-cheval-hommes,Or,GER,Carl Schuhmann,Aucune donnée
+gymnastique-artistique,saut-de-cheval-hommes,Argent,SUI,Louis Zutter,Aucune donnée
+gymnastique-artistique,saut-de-cheval-hommes,Bronze,GER,Hermann Weingärtner,Aucune donnée
+gymnastique-artistique,saut-de-cheval-hommes,Aucune position,SWE,Henrik Sjöberg,Aucune donnée
+gymnastique-artistique,saut-de-cheval-hommes,Aucune position,GER,Conrad Böcker,Aucune donnée
+gymnastique-artistique,saut-de-cheval-hommes,Aucune position,GER,Alfred Flatow,Aucune donnée
+gymnastique-artistique,saut-de-cheval-hommes,Aucune position,GER,Gustav Felix Flatow,Aucune donnée
+gymnastique-artistique,saut-de-cheval-hommes,Aucune position,GER,Georg Hillmar,Aucune donnée
+gymnastique-artistique,saut-de-cheval-hommes,Aucune position,GER,Fritz Manteuffel,Aucune donnée
+gymnastique-artistique,saut-de-cheval-hommes,Aucune position,GER,Karl Neukirch,Aucune donnée
+gymnastique-artistique,saut-de-cheval-hommes,Aucune position,GER,Richard Röstel,Aucune donnée
+gymnastique-artistique,saut-de-cheval-hommes,Aucune position,GER,Gustav Schuft,Aucune donnée
+gymnastique-artistique,saut-de-cheval-hommes,Aucune position,HUN,Gyula Kakas,Aucune donnée
+gymnastique-artistique,saut-de-cheval-hommes,Aucune position,HUN,Dezső Wein,Aucune donnée
+gymnastique-artistique,saut-de-cheval-hommes,Aucune position,BUL,Charles Champoff,Aucune donnée
